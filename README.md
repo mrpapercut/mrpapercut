@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mischa Rodermond (@mrpapercut), a webdeveloper & javascripter from the Netherlands
+- 👋 Hi, I’m Mischa Rodermond (@mrpapercut), a fullstack-developer from the Netherlands
 - 👀 I’m interested in obfuscation, coding principles, javascript, games, messing around
 - 🌱 I’m currently learning Go, Julia
 
